@@ -1,4 +1,3 @@
 # yflynn
 
-Personal repos
-Everything is AGPL-3.0.
+Personal repos - Everything is AGPL-3.0.
